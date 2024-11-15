@@ -1,26 +1,32 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Binary Ninja](https://binary.ninja/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Binary Ninja](https://binary.ninja/).
 
-![Screenshot](./screenshot.png)
+![Screenshot1](./screenshot1.png)
+
+![Screenshot2](./screenshot2.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+1. Download the `theme/Dracula.bntheme` file.
+2. Move the `Dracula.bntheme` file to the `theme` subdirectory in your [user folder](https://docs.binary.ninja/guide/index.html#user-folder) (you might need to create the `theme` subdirectory if it doesn't exist).
+3. Open Binary Ninja and go to `Edit > Preferences > Settings`
+4. Search for `Theme` and select `Dracula` from the dropdown.
+5. Enjoy!
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/x64dbg/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+| [![CX330](https://github.com/CX330Blake.png?size=100)](https://github.com/CX330Blake)      |
+| ------------------------------------------------------------------------------------------ |
+| [CX330's GitHub](https://github.com/CX330Blake)<br />[CX330's Blog](https://blog.cx330.tw) |
 
 ## Community
 
-- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
-- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
-- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
+-   [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
+-   [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
+-   [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
 
 ## Dracula PRO
 
