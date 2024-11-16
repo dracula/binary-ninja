@@ -9,7 +9,7 @@
 ## Install
 
 1. Download the `theme/Dracula.bntheme` file.
-2. Move the `Dracula.bntheme` file to the `theme` subdirectory in your [user folder](https://docs.binary.ninja/guide/index.html#user-folder) (you might need to create the `theme` subdirectory if it doesn't exist).
+2. Move the `Dracula.bntheme` file to the `themes` subdirectory in your [user folder](https://docs.binary.ninja/guide/index.html#user-folder) (you might need to create the `themes` subdirectory if it doesn't exist).
 3. Open Binary Ninja and go to `Edit > Preferences > Settings`
 4. Search for `Theme` and select `Dracula` from the dropdown.
 5. Enjoy!
