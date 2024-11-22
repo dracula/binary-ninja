@@ -84,6 +84,7 @@
         "fieldNameColor":                       "darkBlue",
         "keywordColor":                         "pink",
         "uncertainColor":                       "darkBlue",
+        "exportColor":                          "green",
         "scriptConsoleOutputColor":             "white",
         "scriptConsoleErrorColor":              "red",
         "scriptConsoleEchoColor":               "green",
