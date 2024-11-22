@@ -34,9 +34,9 @@
     },
 
     "disabledPalette": {
-        "Button":          "grey",
-        "ButtonText":      "grey",
-        "Text":            "grey"
+        "Button":          "darkBlue",
+        "ButtonText":      "darkBlue",
+        "Text":            "darkBlue"
     },
 
     "theme-colors": {
@@ -94,6 +94,16 @@
         "yellowStandardHighlightColor":         "yellow",
         "orangeStandardHighlightColor":         "orange",
         "whiteStandardHighlightColor":          "white",
-        "blackStandardHighlightColor":          "black"
+        "blackStandardHighlightColor":          "black",
+        "featureMapBaseColor":                  "black",
+        "featureMapNavLineColor":               "darkBlue",
+        "featureMapNavHighlightColor":          "white",
+        "featureMapDataVariableColor":          "lightBlue",
+        "featureMapAsciiStringColor":           "pink",
+        "featureMapUnicodeStringColor":         "pink",
+        "featureMapFunctionColor":              "green",
+        "featureMapImportColor":                "purple",
+        "featureMapExternColor":                "yellow",
+        "featureMapLibraryColor":               "purple"
     }
 }
