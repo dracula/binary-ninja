@@ -28,8 +28,9 @@
         "ButtonText":      "white",
         "BrightText":      "grey",
         "Link":            "green",
-        "Highlight":       "white",
-        "HighlightedText": "black",
+        "LinkVisited":     "purple",
+        "Highlight":       "grey",
+        "HighlightedText": "white",
         "Light":           "grey"   
     },
 
