@@ -81,7 +81,7 @@
         "linearDisassemblySeparatorColor":      "lightBlue",
         "stringColor":                          "pink",
         "typeNameColor":                        "purple",
-        "fieldNameColor":                       "darkBlue",
+        "fieldNameColor":                       "white",
         "keywordColor":                         "pink",
         "uncertainColor":                       "darkBlue",
         "exportColor":                          "green",
