@@ -80,7 +80,7 @@
         "linearDisassemblyNoteColor":           "black",
         "linearDisassemblySeparatorColor":      "lightBlue",
         "stringColor":                          "pink",
-        "typeNameColor":                        "purple",
+        "typeNameColor":                        "pink",
         "fieldNameColor":                       "white",
         "keywordColor":                         "pink",
         "uncertainColor":                       "darkBlue",
